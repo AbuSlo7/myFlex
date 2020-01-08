@@ -1,5 +1,5 @@
 <?php
-$servername = "db.saleh.cloud";
+$servername = "172.17.0.5";
 $username = "app1";
 $password = "Saleh112233";
 $dbname = "test";
